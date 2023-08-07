@@ -18,16 +18,20 @@ I trust you'll find my portfolio intriguing and valuable!
 
 🌐 Links
 
-[![Projects](https://github.com/Angiea18?tab=repositories)
-[![LinkedIn](https://www.linkedin.com/in/angie-arango-b208231b6/)
+[![Projects](https://img.shields.io/badge/my_projects-000?style=for-the-badge&logo=ko-fi&logoColor=purple)](https://github.com/Angiea18?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angie-arango-b208231b6/)
 
 
 📌 Here's More
 
 🕵️‍♀️Started as a Criminalist
+
 💻Began Learning Data Science and Data Analytics
+
 📚I love reading detective novels
+
 📖I'm enthusiastic about learning 
+
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=Angiea18&show_icons=true&theme=transparent)
