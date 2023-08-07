@@ -18,8 +18,8 @@ I trust you'll find my portfolio intriguing and valuable!
 
 🌐 Links
 
-[Projects](https://github.com/Angiea18?tab=repositories)
-[LinkedIn](https://www.linkedin.com/in/angie-arango-b208231b6/)
+[![Projects](https://github.com/Angiea18?tab=repositories)
+[![LinkedIn](https://www.linkedin.com/in/angie-arango-b208231b6/)
 
 
 📌 Here's More
@@ -30,4 +30,5 @@ I trust you'll find my portfolio intriguing and valuable!
 📖I'm enthusiastic about learning 
 
 
-![https://github-readme-stats.vercel.app/api?username=Angiea18&show_icons=true&theme=transparent]
+![Logo](https://github-readme-stats.vercel.app/api?username=Angiea18&show_icons=true&theme=transparent)
+
