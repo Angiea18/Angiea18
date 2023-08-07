@@ -31,8 +31,3 @@ I trust you'll find my portfolio intriguing and valuable!
 📚I love reading detective novels
 
 📖I'm enthusiastic about learning 
-
-
-
-![Logo](https://github-readme-stats.vercel.app/api?username=Angiea18&show_icons=true&theme=transparent)
-
