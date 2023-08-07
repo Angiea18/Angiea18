@@ -1,1 +1,33 @@
-# profile
+# Hi, I'm Angie Arango! 🌟
+
+I'm growing in my career as a Data Scientist and Data Analyst.
+
+Within this section, you'll discover a collection of my data analysis projects in both English and Spanish.
+
+I trust you'll find my portfolio intriguing and valuable!
+
+🔷 Skills
+
+- Python
+- Machine Learning
+- Power Bi
+- ETL
+- SQL
+- Big data (Hadoop, Spark, Docker)
+- Data Science
+
+🌐 Links
+
+[Projects](https://github.com/Angiea18?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/angie-arango-b208231b6/)
+
+
+📌 Here's More
+
+🕵️‍♀️Started as a Criminalist
+💻Began Learning Data Science and Data Analytics
+📚I love reading detective novels
+📖I'm enthusiastic about learning 
+
+
+![https://github-readme-stats.vercel.app/api?username=Angiea18&show_icons=true&theme=transparent]
