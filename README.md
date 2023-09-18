@@ -10,16 +10,15 @@ Within this section, you'll discover a collection of my data analysis projects i
 I trust you'll find my portfolio intriguing and valuable!
 
 🛠️  Skills
-
 - Python
 - Machine Learning
 - SQL
-- EDA
-- Estadistics
-- Power Bi
-- ETL
-- SQL
-- Big data (Hadoop, Spark, Docker)
+- ETL (Extract, Transform, Load)
+- Exploratory Data Analysis (EDA)
+- Statistics
+- Power BI
+- Tableau
+- Big Data (Hadoop, Spark, Docker)
 
 🌐 Links
 
