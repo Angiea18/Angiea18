@@ -1,21 +1,25 @@
 
 # Hi, I'm Angie Arango! 🌟
 
-I'm growing in my career as a Data Scientist and Data Analyst.
+I'm growing in my career as a Data Scientist.
 
-Within this section, you'll discover a collection of my data analysis projects in both English and Spanish.
+My passion lies in data analysis and data engineering, with the primary goal of addressing challenges using my skills in data structuring, model evaluation, machine learning, statistics, and data visualization.
+
+Within this section, you'll discover a collection of my data analysis projects in both English and Spanish. I aim to apply my skills to overcome challenges, drawing from my deep knowledge of efficient workflows, data structure, model evaluation, machine learning, statistics, and data visualization.
 
 I trust you'll find my portfolio intriguing and valuable!
 
-🔷 Skills
+🛠️  Skills
 
 - Python
 - Machine Learning
+- SQL
+- EDA
+- Estadistics
 - Power Bi
 - ETL
 - SQL
 - Big data (Hadoop, Spark, Docker)
-- Data Science
 
 🌐 Links
 
