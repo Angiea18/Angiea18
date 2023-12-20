@@ -71,6 +71,7 @@ En el transcurso de bootcamp y a través de mis proyectos, he adquierido habilid
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" alt="VSCode" width="60" height="60"/>&nbsp;
 
 
+### Recursos:
  - 📰 [Kaggle](https://www.kaggle.com/) - Plataforma de ciencia de datos que proporciona conjuntos de datos, competiciones y materiales educativos.
  - 🎥 [Platzi](https://platzi.com/) - Plataforma digital que ofrece cursos interactivos en línea sobre una amplia gama de temas, con un enfoque especial en análisis y ciencia de datos.
  - 🎥 [Udemy](https://www.udemy.com/) - Plataforma en línea que brinda una extensa variedad de cursos interactivos en diversos campos de estudio, incluyendo contenido específico en análisis y ciencia de datos.
