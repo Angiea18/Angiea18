@@ -80,11 +80,12 @@ En el transcurso de bootcamp y a través de mis proyectos, he adquierido habilid
 ### Próximos Pasos en mi Trayectoria como Analista de Datos
 Mi camino como analista de datos continúa evolucionando constantemente. Me entusiasma continuar adquiriendo conocimientos y aplicar mis habilidades en proyectos más desafiantes y situaciones del mundo real.
 
-🌐 Links de contacto
+### 🌐 Links de contacto
 
 [![Projects](https://img.shields.io/badge/my_projects-000?style=for-the-badge&logo=ko-fi&logoColor=purple)](https://github.com/Angiea18?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angie-arango/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:angie.a.zapata@gmail.com")
+
 
 
 ¡Agradezco tu visita a mi perfil! Espero que encuentres contenido fascinante aquí. ¡Siéntete libre de contactarme!
