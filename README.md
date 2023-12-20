@@ -15,6 +15,8 @@ Me encuentro inmersa en mi formación como analista de datos, centrando mis esfu
 - 🔍 Amante de las ciencias forenses y la investigación.
 - 📊 Siempre en la búsqueda de nuevas formas para convertir datos en conocimientos.
 - 📖 Apasionada por las novelas románticas/policiacas.
+- ☠️ Explorando el fascinante mundo del Anime con One Piece.
+- 📺 Aficionada a las series de suspenso, misterios y crímenes, como Criminal Minds, entre otros.
 
 ### Proyectos Académicos Bootcamp
 
