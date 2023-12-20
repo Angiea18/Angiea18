@@ -40,7 +40,7 @@ Este proyecto se sumerge en el fascinante universo del cine a través del análi
 
 ### Mis conocimientos y habilidades adquiridos
 
-En el transcurso de bootcamp y a través de mis proyectos, he adquirido habilidades y conocimientos fundamentales en:
+En el transcurso del bootcamp y a través de mis proyectos, he adquirido habilidades y conocimientos fundamentales en:
 
 - EDA - Análisis Exploratorio de Datos
 - Proceso de limpieza y preprocesamiento de datos - ETL.
@@ -49,7 +49,7 @@ En el transcurso de bootcamp y a través de mis proyectos, he adquirido habilida
 - Habilidad para comunicar resultados técnicos de manera accesible.
 - Coordinación efectiva de tareas y recursos para lograr objetivos específicos.
 - Flexibilidad para enfrentar nuevos desafíos y ajustarse a cambios en entornos dinámicos.
-- Experiencia trabajando en equipo y participando en proyectos colaborativos.
+- Trabajo en equipo y participación en proyectos colaborativos.
 
   
 ## Tecnologías que Manejo 🚀
