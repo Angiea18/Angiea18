@@ -1,33 +1,26 @@
 
 # Hola, soy Angie Arango! 🌟
 
-## Analista de Datos en Formación📊🔍
+## Analista de Datos📊🔍
+## Desarrollo Web en Formación - Nodo Eafit
 
-¡Bienvenido a mi perfil de GitHub!
-
-
-Me encuentro inmersa en mi formación como analista de datos, centrando mis esfuerzos en proyectos académicos que evidencian mi destreza en el manejo de datos y la extracción de información valiosa. A continuación, comparto contigo algunos de mis proyectos más destacados.
+Soy cientifica de datos, centrada en el análisis de datos, incursionando en el desarrollo web actualmente.
 
 ### 📌 Más Sobre Mí
 
-- 🧰 Amante de las herramientas como Power BI, Python, SQL, Tableau, Looker Studio, R y más.
+- 🧰 Manejo herramientas como Power BI, Python, SQL, Tableau, Looker Studio, R y más.
 - 💻 Continuamente adquiriendo conocimientos y sumergiéndome en innovadoras metodologías y tecnologías.
 - 🔍 Amante de las ciencias forenses y la investigación.
-- 📊 Siempre en la búsqueda de nuevas formas para convertir datos en conocimientos.
 - 📖 Apasionada por las novelas románticas/policiacas.
 - ☠️ Explorando el fascinante mundo del Anime con One Piece.
 - 📺 Aficionada a las series de suspenso, misterios y crímenes, como Criminal Minds, entre otros.
 
-### Proyectos Académicos Bootcamp
-
+### Proyectos Académicos Bootcamp Ciencia de datos
 ### 🤖🎮[MLOps](https://github.com/Angiea18/MLOps)
-
 ### 📊💰 [Criptomonedas-Data-Analytics](https://github.com/Angiea18/Criptomonedas-Data-Analytics)
-
 ### 📊🤖🗺️ [Análisis de Flujos Migratorios](https://github.com/Proyecto-FinalMigraciones/Proyecto-Final)
 
 ### Proyectos Individuales
-
 ### 🤖🎬[Top 250 IMDB Movies: Análisis y Sistema de Recomendación](https://github.com/Angiea18/Analisis-Top250Movies)
 
 ### Mis conocimientos y habilidades adquiridos
@@ -63,14 +56,8 @@ En el transcurso del bootcamp y a través de mis proyectos, he adquirido habilid
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" alt="VSCode" width="60" height="60"/>&nbsp;
 
 
-### Recursos:
- - 📰 [Kaggle](https://www.kaggle.com/) - Plataforma de ciencia de datos que proporciona conjuntos de datos, competiciones y materiales educativos.
- - 🎥 [Platzi](https://platzi.com/) - Plataforma digital que ofrece cursos interactivos en línea sobre una amplia gama de temas, con un enfoque especial en análisis y ciencia de datos.
- - 🎥 [Udemy](https://www.udemy.com/) - Plataforma en línea que brinda una extensa variedad de cursos interactivos en diversos campos de estudio, incluyendo contenido específico en análisis y ciencia de datos.
-
-
-### Próximos Pasos en mi Trayectoria como Analista de Datos
-Mi camino como analista de datos continúa evolucionando constantemente. Me entusiasma continuar adquiriendo conocimientos y aplicar mis habilidades en proyectos más desafiantes y situaciones del mundo real.
+### Próximos Pasos 
+Ahora estoy incursionando en Desarrollo Web con Confama y Nodo Eafit, para complementar mi perfil y en un fuuro poder unir el desarrollo web con el análisis de datos.
 
 ### 🌐 Links de contacto
 
