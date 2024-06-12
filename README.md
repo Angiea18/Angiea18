@@ -2,7 +2,7 @@
 # Hola, soy Angie Arango! 🌟
 
 ## Analista de Datos📊🔍
-## Desarrollo Web en Formación - Nodo Eafit
+## Desarrollo Web en Formación - Nodo Eafit 👩‍💻
 
 Soy cientifica de datos, centrada en el análisis de datos, incursionando en el desarrollo web actualmente.
 
@@ -13,7 +13,7 @@ Soy cientifica de datos, centrada en el análisis de datos, incursionando en el 
 - 🔍 Amante de las ciencias forenses y la investigación.
 - 📖 Apasionada por las novelas románticas/policiacas.
 - ☠️ Explorando el fascinante mundo del Anime con One Piece.
-- 📺 Aficionada a las series de suspenso, misterios y crímenes, como Criminal Minds, entre otros.
+- 📺 Aficionada a las series de suspenso, misterios y crímenes, como Criminal Minds, entre otros 🕵️‍♀️.
 
 ### Proyectos Académicos Bootcamp Ciencia de datos
 ### 🤖🎮[MLOps](https://github.com/Angiea18/MLOps)
