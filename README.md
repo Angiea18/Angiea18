@@ -57,7 +57,7 @@ En el transcurso del bootcamp y a través de mis proyectos, he adquirido habilid
 
 
 ### Próximos Pasos 
-Ahora estoy incursionando en Desarrollo Web con Confama y Nodo Eafit, para complementar mi perfil y en un fuuro poder unir el desarrollo web con el análisis de datos.
+Ahora estoy incursionando en Desarrollo Web con Comfama y Nodo Eafit, para complementar mi perfil y en un fuuro poder unir el desarrollo web con el análisis de datos.
 
 ### 🌐 Links de contacto
 
